@@ -1,0 +1,2 @@
+Formato
+ISW_EER_<<##>>_<<Grupo>>_<<Nombre>>_<<dd/mm/yyyy>>
