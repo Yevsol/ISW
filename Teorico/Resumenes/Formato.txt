@@ -1,0 +1,2 @@
+Formato
+ISW_RES_U<<#>>_<<Año>>
